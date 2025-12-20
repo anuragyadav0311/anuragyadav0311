@@ -7,12 +7,12 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/00/4b/1b/004b1b6f6ea4c8f7b7905024a19614ad.gif" alt="anime gif" width="450"/>
+  <img src="https://i.pinimg.com/originals/00/4b/1b/004b1b6f6ea4c8f7b7905024a19614ad.gif" alt="anime gif" width="350"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav0311&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav0311" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anuragyadav0311" alt="anuragyadav0311" /></a> </p>
+<p align="left">  </p>
 
 - 🌱 I’m currently learning **Data Science and ML**
 
