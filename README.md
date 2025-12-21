@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://i.pinimg.com/originals/00/4b/1b/004b1b6f6ea4c8f7b7905024a19614ad.gif" alt="anime gif" width="350"/>
+  <img src="https://i.pinimg.com/originals/00/4b/1b/004b1b6f6ea4c8f7b7905024a19614ad.gif" alt="anime gif" width="400"/>
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav0311&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav0311" /> </p>
