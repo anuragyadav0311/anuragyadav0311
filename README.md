@@ -1,15 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">A passionate aspiring AIML developer from India</h3>
-<div align="center">
-  <img src="https://31.media.tumblr.com/0e4948b5868bc96c402b727bb8f37e9c/tumblr_n41rsjc2sE1smkwalo1_1280.gif" width="500" />
-</div>
-
-
-
-<div align="center">
-  <img src="https://i.pinimg.com/originals/00/4b/1b/004b1b6f6ea4c8f7b7905024a19614ad.gif" alt="anime gif" width="400"/>
-</div>
-
+<img src="https://raw.githubusercontent.com/anuragyadav0311/anuragyadav0311/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav0311&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav0311" /> </p>
 
 <p align="left">  </p>
