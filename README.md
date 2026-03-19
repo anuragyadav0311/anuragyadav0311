@@ -12,6 +12,7 @@
 - 📫 How to reach me **anuragyadav47844@gmail.com**
 
 - ⚡ Fun fact **I try many things at same time**
+<br>
 
 # Connect with me:
 <p align="left">
