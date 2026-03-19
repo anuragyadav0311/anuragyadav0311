@@ -38,3 +38,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=anuragyadav0311&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![footer](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Thank%20you&section=footer&reversal=false&descAlign=55&fontAlign=50)
