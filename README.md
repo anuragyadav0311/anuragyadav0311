@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Yadav</h1>
 <h3 align="center">A passionate aspiring AIML developer from India</h3>
-<img src="https://raw.githubusercontent.com/anuragyadav0311/anuragyadav0311/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://github.com/anuragyadav0311/anuragyadav0311/blob/main/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragyadav0311&label=Profile%20views&color=0e75b6&style=flat" alt="anuragyadav0311" /> </p>
 
 <p align="left">  </p>
