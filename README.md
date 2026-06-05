@@ -244,7 +244,7 @@ Background daemon that automatically organizes Linux downloads, sorting code and
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=anuragyadav0311&theme=2077" alt="GitHub Stats"/>
-<img width="49%" src="https://streak-stats.demolab.com?user=anuragyadav0311&theme=tokyonight&hide_border=true&background=0D1117&ring=6C3CE0&fire=6C3CE0&currStreakLabel=6C3CE0&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app?user=anuragyadav0311&theme=tokyonight&hide_border=true&background=0D1117&ring=6C3CE0&fire=6C3CE0&currStreakLabel=6C3CE0&sideLabels=C9D1D9&dates=C9D1D9" alt="GitHub Streak"/>
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anuragyadav0311&theme=2077" alt="Top Languages"/>
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anuragyadav0311&theme=2077" alt="Most Used Languages"/>
