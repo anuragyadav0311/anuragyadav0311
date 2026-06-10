@@ -120,7 +120,6 @@ Firebase  ████████████░░░░░░  70%
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
 <img src="https://img.shields.io/badge/Tesseract_OCR-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
-<img src="https://img.shields.io/badge/Isolation_Forest-6c3ce0?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 </p>
 
 </div>
